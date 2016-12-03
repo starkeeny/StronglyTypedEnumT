@@ -1,1 +1,1 @@
-"# StronglyTypedEnumT" 
+Here is an enum-class which is strongly typed using generics. It is fairly simple, but makes much more sense for me than the non-generic approach.
